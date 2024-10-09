@@ -4,8 +4,8 @@ import { version } from "./version.js";
 function App() {
   return (
     <div>
-      <h1>My React App</h1>
-      <p>Version: {version}</p>
+      <h1>Vite + React</h1>
+      <p>App version: {version}</p>
     </div>
   );
 }
